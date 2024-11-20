@@ -3,6 +3,9 @@
 
 Rexon is a command-line tool that helps security researchers and penetration testers automate their reconnaissance workflow using natural language processing.
 
+![image](https://github.com/user-attachments/assets/dedfc7e5-4947-46b2-b9eb-bc7c7a0f1d5c)
+
+
 ## Features
 
 - Natural language to command translation
